@@ -1,0 +1,1 @@
+This code has been tested under Wemos D1 RI. Epoch time and relay state were successfully upload to mqtt broker. FlexIoT MQTT broker by XL has been used in this projects (https://portal.flexiot.xl.co.id/)
